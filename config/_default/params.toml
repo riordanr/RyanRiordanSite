@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "rr66@queensu.ca"
 phone = "613 533 2352"
-address = "Goodes Hall, Room 434 West Wing"
+address = "Kingston, Canada, 143 Union Street, Goodes Hall, Room 434 West Wing"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "By appointment"
